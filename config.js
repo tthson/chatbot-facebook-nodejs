@@ -3,5 +3,5 @@ module.exports = {
     FB_VERIFY_TOKEN: 'somethingisfirstwithson',
     API_AI_CLIENT_ACCESS_TOKEN: '',
     FB_APP_SECRET: '',
-    SERVER_URL: "https://bots.api.ai/facebook/d97351db-15c0-4fea-9637-c45dad805f55/webhook/",
+    SERVER_URL: "https://evening-tundra-35383.herokuapp.com/",
 };
